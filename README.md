@@ -70,7 +70,7 @@ The package API for yaml v3 will remain stable as described in [gopkg.in](https:
 License
 -------
 
-The yaml package is licensed under the MIT and Apache License 2.0 licenses.
+The yaml package is licensed under the MIT and Apache License 2.0 licenses..
 Please see the LICENSE file for details.
 
 
